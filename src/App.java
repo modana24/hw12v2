@@ -10,5 +10,7 @@ public class App {
             book.setYear(2025);
             System.out.println(book.getYear());
 
-        }
+        System.out.println(book2);
+        System.out.println(author);
+    }
     }
